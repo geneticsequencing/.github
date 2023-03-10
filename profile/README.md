@@ -7,6 +7,7 @@
 Exzo Network is a self-learning and optimizing blockchain platform for secure, interoperable, extremely scalable transactions and smart contracts. Exzo Network uses AI-Operated DPOS (AIDPOS) consensus to secure the blockchain for high volume transactions processing without sacrificing decentralization, stability and security. Through the use ofintelligent AI-operated DPOS consensus algorithm, corruptible human dependencies are removed resulting in a fault tolerance system preventing most major issues like the 51% attack and nothing-at-stake problem.
 
 ## Social Channels
+<div>
   <a href="https://twitter.com/Exzo_Network" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   </a>
