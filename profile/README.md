@@ -9,6 +9,9 @@ Exzo Network is a self-learning and optimizing blockchain platform for secure, i
 
 ## Social Channels
 <div align="center">
+   <a href="https://exzo.network" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
+  </a>
   <a href="https://twitter.com/Exzo_Network" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   </a>
@@ -29,3 +32,16 @@ Exzo Network is a self-learning and optimizing blockchain platform for secure, i
 ###
 
 Website - https://exzo.network
+
+
+## Supported programming languages for the Exzo Network blockchain
+
+```text
+JavaScript               32 repos            ████████████                100 %
+Rust                     32 repos            ████████████░░░░░░░░░░░░░   100 % 
+Typescript               7 repos             ████████████░░░░░░░░░░░░░   100 % 
+Rust                     7 repos             ████████████░░░░░░░░░░░░░   100 % 
+Python                   3 repos             ████████████░░░░░░░░░░░░░   100 % 
+TypeScript               3 repos             ████████████░░░░░░░░░░░░░   100 %
+Unity                    1 repo              ████████████░░░░░░░░░░░░░   100 % 
+```
