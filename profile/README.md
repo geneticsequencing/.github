@@ -1,5 +1,5 @@
 <p align="center">
-    <img alt="Exzo Network" src="https://raw.githubusercontent.com/ExzoNetwork/Exzo-Network-Logo/b8db8bdc1e1b80ac9045c3e9d04a40e577151ab5/Exzo%20Logo%20New.svg" width="250" />
+    <img alt="Exzo Network" src="https://raw.githubusercontent.com/ExzoNetwork/Exzo-Network-Logo/main/spaces_F4fKnvVGYCqw3Hl10JXu_uploads_EveDiBaCcHguugLDvLdc_Untitled-2%20(1)%201.png" width="250" />
 </p>
 
 ## About Exzo Network
