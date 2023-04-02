@@ -4,7 +4,7 @@
 
 ## About Exzo Network
 
-Exzo Network is a next-generation blockchain platform that boasts self-learning and optimizing capabilities, offering unparalleled security, interoperability, and scalability for smart contract transactions. The platform leverages AI-Operated Delegated Proof of Stake (AIDPOS) consensus algorithm, which ensures maximum security and stability without compromising on decentralization. Unlike traditional blockchain platforms that are susceptible to human error and manipulation, Exzo Network's intelligent AIDPOS algorithm is completely automated, resulting in a fault-tolerant system that mitigates most major issues like the 51% attack and nothing-at-stake problem. By harnessing the power of cutting-edge technology, Exzo Network has revolutionized the way we think about blockchain, offering a platform that is efficient, secure, and future-proof.
+Exzo Network is a next-generation blockchain platform that boasts self-learning and optimizing capabilities, offering unparalleled security, interoperability, and scalability for smart contract transactions. The platform leverages a Delegated Proof-of-Stake (DPoS) consensus algorithm, which ensures maximum security and stability without compromising on decentralization. Unlike traditional blockchain platforms that are susceptible to human error and manipulation, Exzo Network's intelligent AIDPOS algorithm is completely automated, resulting in a fault-tolerant system that mitigates most major issues like the 51% attack and nothing-at-stake problem. By harnessing the power of cutting-edge technology, Exzo Network has revolutionized the way we think about blockchain, offering a platform that is efficient, secure, and future-proof.
 
 ## Social Channels
 <div>
